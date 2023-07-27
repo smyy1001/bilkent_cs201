@@ -20,7 +20,6 @@ int priority( const char c ) { // to determine the precedence of an operator
 std::string infix2postfix( const std::string exp ) { // infix to postfix
     std::stack<char> stack;
     std::string postfix; // output std::string
-    
     for (char c : exp) {
         if (isdigit(c)) { postfix += c; } // add operands to the output
     
