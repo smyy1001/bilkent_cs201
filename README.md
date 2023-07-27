@@ -1,2 +1,2 @@
-# bilkent_cs201
-Bilkent CS201 Spring 2023
+*Author: Sumeyye ACAR*
+# Bilkent CS201 Spring 2023
