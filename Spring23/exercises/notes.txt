@@ -1,0 +1,31 @@
+-----------------------------------------------------------
+
+non-const poi, non-const vale --> int* pointerName = &valueName;
+
+non-constant poi, const value --> const int* pointerName = &valueName;
+
+const poi, non-const value --> int* const pointerName = &valueName;
+
+const poi, const value --> const int* const pointerName = &valueName;
+
+-----------------------------------------------------------
+
+(*pointer).method() = pointer->method()
+
+-----------------------------------------------------------
+
+someString.substr(int startingIndex, int length)
+
+-----------------------------------------------------------
+
+only one destructor can exist at a time
+
+-----------------------------------------------------------
+
+. :: ?: sizeof ------> these operators can not be overloaded!
+
+-----------------------------------------------------------
+
+study the IntArray example carefully
+
+-----------------------------------------------------------
